@@ -1,0 +1,8 @@
+alarm[0] = 60
+global.Money1 += 2
+
+if global.Mine1 = >0
+  {
+  global.Money += (global.Mine1 * 5)
+  }
+  
