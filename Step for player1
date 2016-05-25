@@ -3,6 +3,17 @@ global.Money1 += 2
 
 if global.Mine1 = >0
   {
-  global.Money += (global.Mine1 * 5)
+  global.Money1 += (global.Mine1 * 5)
   }
   
+if global.Farm1 = >0
+  {
+  global.Money1 += (global.Farm1 * 2)
+  }
+
+if global.Bank = >0
+  {
+  global.Money1 += (global.Bank * 
+  
+  
+if 
